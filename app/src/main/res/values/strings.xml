@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Finance Tracker</string>
+    <string-array name="account_options">
+        <item>Cash</item>
+        <item>Bank</item>
+        <item>Card</item>
+    </string-array>
+
+</resources>
